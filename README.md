@@ -1,5 +1,3 @@
-# 👋 Привет!
-
 <br clear="both">
 
 <div align="center">
@@ -18,60 +16,6 @@
 
 ---
 
-## 🚀 Обо мне
-
-- 🔭 **Специализация**: Машинное обучение.
-- 💬 **Поговорим о**: ML, Python, TensorFlow, PyTorch, Data Science, Kaggle.
-- 📫 **Связь**: [Ваш email] | [LinkedIn] | [Telegram]
-
----
-
-## 📂 Проекты
-
-### 1. **Классификация изображений с помощью CNN**
-   - Описание: Реализация сверточной нейронной сети для классификации изображений из набора данных CIFAR-10.
-   - Технологии: PyTorch, OpenCV, Matplotlib
-   - [Ссылка на репозиторий](#)
-
-### 2. **Генерация текста с использованием GPT-2**
-   - Описание: Fine-tuning модели GPT-2 для генерации текста на основе пользовательского ввода.
-   - Технологии: Hugging Face Transformers, PyTorch
-   - [Ссылка на репозиторий](#)
-
-### 3. **Анализ временных рядов с использованием LSTM**
-   - Описание: Прогнозирование временных рядов с использованием рекуррентных нейронных сетей.
-   - Технологии: TensorFlow, Pandas, Matplotlib
-   - [Ссылка на репозиторий](#)
-
----
-
-## 📊 Статистика GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=squizly&show_icons=true&theme=dark)
-
----
-
-## 🎥 Анимация из аниме
-
-
-
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Squizly&theme=merko)](https://git.io/streak-stats" height="220" alt="streak graph"  />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Squizly&theme=merko" alt="stats graph"  />
 </div>
-
-
-
-<!--
-**Squizly/Squizly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
