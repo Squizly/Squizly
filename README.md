@@ -6,6 +6,20 @@
   </a>
 </h1>
 
+<p align="center">  
+  Hi, I am Petr Kolesov, a student, and I really enjoy machine learning.
+  <br>
+  🔬 I am currently studying at Tomsk State University in the Faculty of Applied Mathematics and Computer Science.
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I am currently studying the basics of machine learning and probability theory.
+  <br>
+  💬 Ask me anything about from <a href="t.me/iso4you" title="Telegram">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: petrkolesov010204@gmail.com">petrkolesov010204@gmail.com</a>
+</p>
+
 <h2 align="center">⚡ Stats and Activity ⚡</h2>
 
 <p align="center">
