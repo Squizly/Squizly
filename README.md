@@ -30,11 +30,13 @@
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Squizly/Data-Structures-and-Algorithms" title="Data Structures and Algorithms"><img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=squizly&repo=Data-Structures-and-Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Squizly/Object-oriented-programming" title="Object oriented programming"><img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=squizly&repo=Object-oriented-programming&theme=react&border_color=61dafb&border_radius=10"></a>
+<div align="center" style="display: flex; justify-content: space-between;">
+  <a align="left" href="https://github.com/Squizly/Data-Structures-and-Algorithms" title="Data Structures and Algorithms"><img align="left" width="49%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=squizly&repo=Data-Structures-and-Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Squizly/Object-oriented-programming" title="Object oriented programming"><img align="right" width="50%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=squizly&repo=Object-oriented-programming&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Squizly/course_Intelligent_systems" title="Course Intelligent Systems"><img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=squizly&repo=course_Intelligent_systems&theme=react&border_color=61dafb&border_radius=10"></a>
+<div align="center" style="display: flex; justify-content: space-between;">
+  <a align="left" href="https://github.com/Squizly/course_Intelligent_systems" title="Course Intelligent Systems"><img align="left" width="49%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=squizly&repo=course_Intelligent_systems&theme=react&border_color=61dafb&border_radius=10"></a>
+   <a align="right" href="https://github.com/Squizly/Squizly" title="Squizly"><img align="right" width="50%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=squizly&repo=Squizly&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
